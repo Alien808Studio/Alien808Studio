@@ -246,6 +246,7 @@ La prima versione era troppo robotica: ogni riga stava in piedi da sola, catene 
 |---|-------|-------|------|
 | 1 | LA SAPRÀ (title track, "Chi non sa la mia storia la saprà") | Bozza di Claude | 140 BPM, C# minor. Da riportare nella firma: mancano catene inglesi e doppio incastro, e il box Style è più lungo dei 40–60 parole previsti. |
 | – | MALANDRINO | v2 raccontata, da approvare | Beat di SXG (mp3 free). Misurato: 118 BPM, E minor. Mappa: 0:00 Intro 8 senza batteria · 0:16 Hook 8 · 0:32 Verse 16 · 1:04 Bridge 8 stacco · 1:20 Hook 8 · 1:36 Verse 16 · 2:08 Bridge 8 stacco · 2:24 Hook 8 · 2:40 Outro 8. Hook su -ack; strofe -ira + -ash, -ezza + -ay. Prima di pubblicare: verificare la licenza del beat. |
+| – | TICK TOCK (banger) | Bozza di Claude, da approvare | 140 BPM, F# minor. Il tempo come merce, "ora illegale". Hook su -ock; strofe -ale + -ime, -ore + -ow. |
 | – | BLACKOUT | Finito | Brano di riferimento del metodo. |
 | – | MANI VUOTE, ROOT ACCESS | Materiale | Da valutare per la tracklist. |
 
@@ -259,3 +260,4 @@ Ogni volta che troviamo la quadra la scriviamo qui, con la data.
 - **2026-10-23** — Studiati Shiva e Tony Boy (sezione "Riferimenti di stile"). Nuova regola: prima la storia, poi la rima. MALANDRINO riscritto come racconto (v2).
 - **2026-10-23** — La sezione su Shiva e Tony Boy è provvisoria: si rifà analizzando i testi delle singole canzoni, che porta Alien808.
 - **2026-10-23** — Rifatta l'analisi di Shiva e Tony Boy sui testi veri: mood pezzo per pezzo, tecniche, il codice del "far intendere senza dirlo" e un catalogo di mood per Suno.
+- **2026-10-23** — Primo banger con le regole dell'analisi: TICK TOCK. Tutto il pezzo usa il linguaggio dell'orologio per far intendere l'hustle. Desinenze inglesi usate finora: -out, -down, -ip, -up, -ack, -ash, -ay, -ock, -ime, -ow.
