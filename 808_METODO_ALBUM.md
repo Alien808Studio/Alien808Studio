@@ -158,12 +158,40 @@ Regole:
 - Dai testi degli altri prendiamo **tecniche**, mai righe, frasi o immagini riconoscibili.
 - Nel prompt di Suno **mai nomi di artisti**: il mood si descrive, non si cita.
 
+## Riferimenti di stile: Shiva e Tony Boy
+
+Studiati il 2026-10-23 da recensioni, interviste e dall'ascolto noto dei loro dischi. I testi completi non sono stati copiati qui: prendiamo **tecniche**, mai righe. Per approfondire, incolla in chat i testi che vuoi far analizzare e si aggiungono qui sotto.
+
+### Shiva (Milano)
+- **Temi:** strada e quartiere, soldi fatti prima e soldi fatti dopo, lealtà al gruppo, la famiglia (la madre, poi il figlio), arresti e processi raccontati in prima persona, paranoia di chi ce l'ha fatta.
+- **Storytelling per istantanee:** brevi scene intense una dopo l'altra, come fotogrammi. Ogni barra mette un dettaglio concreto: un'auto, un orario, un posto, una cifra.
+- **Attitude:** cupo e duro, ma con la ferita in vista. L'immaginario forte (morte, buio) è una scelta di stile, non cronaca.
+- **Tecniche:** contrasto tra prima e adesso dentro la stessa strofa; frasi che sembrano dette a una persona precisa (lettere, messaggi, dediche); hook melodico che chiude le strofe rappate più crude.
+
+### Tony Boy (Padova)
+- **Temi:** solitudine, notte, malinconia, amore finito, sentirsi fuori posto, la città vissuta come una Gotham City a sedici anni; nel periodo più recente immaginario spaziale e alieno.
+- **Storytelling sentimentale:** i cliché trap riletti in chiave intima e romantica, con radici nel cantautorato. Più confessione che vanto.
+- **Attitude:** fragile ma testardo, introspettivo, quasi sottovoce.
+- **Tecniche:** flow spezzato e biascicato che lascia spazio all'emozione; ritornelli a mantra con ripetizioni; frasi semplici e parlate, che pesano più per quello che dicono che per la rima.
+
+### Cosa prendiamo per l'album
+1. **Prima la storia, poi la rima.** Ogni strofa è una scena con un luogo, un momento e delle persone. La rima serve il racconto, non il contrario.
+2. **Personaggi e dialoghi.** Almeno una voce vera nel pezzo (la madre, un amico, uno più grande), con le sue parole tra virgolette.
+3. **Dettagli concreti:** età, stagione, orario, oggetti, cifre. Mai frasi che vanno bene per qualsiasi canzone.
+4. **Frasi che scavalcano la barra.** Righe lunghe e parlate: il flow e l'enfasi li mette Alien808 in cabina.
+5. **Prima e adesso.** La seconda strofa torna negli stessi posti anni dopo e chiude i conti aperti nella prima.
+6. **Ritornello come ricordo o mantra:** poche righe che si ripetono e raccontano, non un elenco di parole inglesi.
+7. **Callback:** una frase della prima strofa o del bridge torna alla fine con un significato nuovo.
+
+### Lezione da MALANDRINO v1 (2026-10-23)
+La prima versione era troppo robotica: ogni riga stava in piedi da sola, catene di rime e parole inglesi in fila, nessuna scena. Le catene inglesi restano un'arma della firma, ma si usano per chiudere, non per riempire.
+
 ## Stato dell'album
 
 | # | Brano | Stato | Note |
 |---|-------|-------|------|
 | 1 | LA SAPRÀ (title track, "Chi non sa la mia storia la saprà") | Bozza di Claude | 140 BPM, C# minor. Da riportare nella firma: mancano catene inglesi e doppio incastro, e il box Style è più lungo dei 40–60 parole previsti. |
-| – | MALANDRINO | Bozza di Claude su beat esterno | Beat di SXG (mp3 free). Misurato: 118 BPM, E minor. Mappa: 0:00 Intro 8 senza batteria · 0:16 Hook 8 · 0:32 Verse 16 · 1:04 Bridge 8 stacco · 1:20 Hook 8 · 1:36 Verse 16 · 2:08 Bridge 8 stacco · 2:24 Hook 8 · 2:40 Outro 8. Hook su -ack; strofe -ira + -ash, -ezza + -ay. Prima di pubblicare: verificare la licenza del beat. |
+| – | MALANDRINO | v2 raccontata, da approvare | Beat di SXG (mp3 free). Misurato: 118 BPM, E minor. Mappa: 0:00 Intro 8 senza batteria · 0:16 Hook 8 · 0:32 Verse 16 · 1:04 Bridge 8 stacco · 1:20 Hook 8 · 1:36 Verse 16 · 2:08 Bridge 8 stacco · 2:24 Hook 8 · 2:40 Outro 8. Hook su -ack; strofe -ira + -ash, -ezza + -ay. Prima di pubblicare: verificare la licenza del beat. |
 | – | BLACKOUT | Finito | Brano di riferimento del metodo. |
 | – | MANI VUOTE, ROOT ACCESS | Materiale | Da valutare per la tracklist. |
 
@@ -174,3 +202,4 @@ Ogni volta che troviamo la quadra la scriviamo qui, con la data.
 - **2026-10-20** — Concept dell'album: "Chi non sa la mia storia la saprà". Prima bozza della title track LA SAPRÀ, salvata nella 808 Console.
 - **2026-10-23** — Il file si chiama `808_METODO_ALBUM.md` ed è salvato su GitHub. Questo file diventa il riferimento unico del metodo e si aggiorna a ogni passo. Il box Style segue il formato breve (40–60 parole, mood in prima riga). Aggiunta l'analisi dei testi di riferimento.
 - **2026-10-23** — Primo testo su beat esterno (MALANDRINO). Quando porto un beat, Claude prima lo misura (BPM, tonalità, mappa delle sezioni in barre e minuti) e scrive il testo sulla mappa reale del beat. Desinenze inglesi usate finora: -out, -down, -ip, -up (BLACKOUT), -ack, -ash, -ay (MALANDRINO).
+- **2026-10-23** — Studiati Shiva e Tony Boy (sezione "Riferimenti di stile"). Nuova regola: prima la storia, poi la rima. MALANDRINO riscritto come racconto (v2).
