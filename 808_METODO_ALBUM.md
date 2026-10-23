@@ -158,30 +158,84 @@ Regole:
 - Dai testi degli altri prendiamo **tecniche**, mai righe, frasi o immagini riconoscibili.
 - Nel prompt di Suno **mai nomi di artisti**: il mood si descrive, non si cita.
 
-## Riferimenti di stile: Shiva e Tony Boy
+## Riferimenti di stile: Shiva e Tony Boy (analisi dei testi)
 
-**Provvisorio:** scritto il 2026-10-23 solo da recensioni e interviste, senza aver analizzato i testi delle canzoni. Da rifare sui testi veri che porta Alien808. I testi completi non sono stati copiati qui: prendiamo **tecniche**, mai righe. Per approfondire, incolla in chat i testi che vuoi far analizzare e si aggiungono qui sotto.
+Analizzati il 2026-10-23 sui testi portati da Alien808. Qui ci sono solo tecniche e frammenti brevi come esempio: i testi completi non si copiano. Nel prompt di Suno questi nomi non compaiono mai.
 
-### Shiva (Milano)
-- **Temi:** strada e quartiere, soldi fatti prima e soldi fatti dopo, lealtà al gruppo, la famiglia (la madre, poi il figlio), arresti e processi raccontati in prima persona, paranoia di chi ce l'ha fatta.
-- **Storytelling per istantanee:** brevi scene intense una dopo l'altra, come fotogrammi. Ogni barra mette un dettaglio concreto: un'auto, un orario, un posto, una cifra.
-- **Attitude:** cupo e duro, ma con la ferita in vista. L'immaginario forte (morte, buio) è una scelta di stile, non cronaca.
-- **Tecniche:** contrasto tra prima e adesso dentro la stessa strofa; frasi che sembrano dette a una persona precisa (lettere, messaggi, dediche); hook melodico che chiude le strofe rappate più crude.
+Pezzi analizzati:
+- **Tony Boy:** Deluso, GG, HOT, Codeine (con ANNA), Freni inibitori, 2 (con Wairaki), più una strofa in un pezzo con Digital Astro e Artie 5ive.
+- **Shiva:** Mon Frè (con Emis Killa), Calmo (con tha Supreme), Take 4, Soldi puliti, Messaggio in segreteria, Non è easy.
+- **Di passaggio:** FaXXX di Tedua e Latrelle.
 
-### Tony Boy (Padova)
-- **Temi:** solitudine, notte, malinconia, amore finito, sentirsi fuori posto, la città vissuta come una Gotham City a sedici anni; nel periodo più recente immaginario spaziale e alieno.
-- **Storytelling sentimentale:** i cliché trap riletti in chiave intima e romantica, con radici nel cantautorato. Più confessione che vanto.
-- **Attitude:** fragile ma testardo, introspettivo, quasi sottovoce.
-- **Tecniche:** flow spezzato e biascicato che lascia spazio all'emozione; ritornelli a mantra con ripetizioni; frasi semplici e parlate, che pesano più per quello che dicono che per la rima.
+### Tony Boy: mood e circostanze, pezzo per pezzo
+| Pezzo | Mood | Circostanza e trucco principale |
+|---|---|---|
+| Deluso | Emo-trap malinconica: solo anche coi soldi | Un terrazzino a casa di un altro, le sette di mattina attorno a un tavolo. Il flex non riempie il vuoto ("ho comprato un iPhone, non cambia niente"). Lei scrive "ti amo" e lui fa il distratto. |
+| GG | Flex rilassato col mezzo sorriso | Prima delle views e adesso. Gioco di parole sulle G. Lo stutter "je-je-jeans" fa da gancio ritmico. "Green screen, non è il tuo background": la fama come finzione. |
+| HOT | Salita motivazionale, poi strada | Pre-ritornello: "senza un euro, sapevo che era possibile". "Luci blu" sono la polizia, senza dirlo. Nel flex entra la fragilità ("lo stile l'ho preso da mia mamma, la roba perché ho l'ansia"). Autoironia sui Bitcoin, chiusura assurda su "salsa hot". |
+| Codeine | Flex sarcastico e sprezzante | Brand messi in fila come status. "Esco fuori dall'inferno". Ricchezza "grazie al karma e alla forza di mia mamma". |
+| Freni inibitori | Autodistruttivo e romantico | Sotto la pioggia "non ho nulla da perdere", grazie ai genitori. Aforisma: chi ha la chiave lo capisce solo dopo aver rotto la porta. Doppio senso "più dentro che fuori". |
+| 2 | Jam di squadra, energia continua | Catene di rime sulla stessa parola (polvere / polvere). "Secondo capitolo": il pezzo parla di sé stesso. |
+
+**Le tecniche di Tony Boy**
+1. **Contrasto tra flex e vuoto:** nella stessa riga ha tutto e gli manca qualcosa. Fa più male che lamentarsi.
+2. **Dialogo indiretto con lei:** riporta quello che lei scrive o chiede, e risponde con un gesto, non con una frase.
+3. **Aforisma da ricordare:** una frase saggia in mezzo allo slang.
+4. **La madre come àncora dentro il vanto:** è lei che dà valore ai soldi.
+5. **Respiri e suoni come strumento:** "mh", "uoh", stutter e onomatopee riempiono la barra e fanno groove.
+6. **Rima leggera:** spesso basta un'assonanza (solo / buio). Conta il senso parlato.
+7. **Autoironia:** una riga che ridimensiona il personaggio lo rende credibile.
+
+### Shiva: mood e circostanze, pezzo per pezzo
+| Pezzo | Mood | Circostanza e trucco principale |
+|---|---|---|
+| Mon Frè | Nostalgia di quartiere che diventa trionfo | Età precisa ("diciannove"), pane e burro alle sei, un bacio a mamma e diecimila euro da una panchina. Una scelta morale in scena: l'amico vuole fare una rapina, lui ha "una chance tra le dita". Firma geografica "Milano Ovest". Giochi di suono (Panama / Panamera, impressioni / Monet). Nella strofa di Emis Killa: il gatto nero che in gabbia diventa pantera. |
+| Calmo | Tensione, non riesce a stare fermo | Il quartiere contro lo studio ("in studio per portare i miei fuori dai blocchi"). "Le finestre hanno gli occhi": paranoia senza dirla. "Mamma, sto firmando il deal". La terra calpestata ancora in tasca: le radici. |
+| Take 4 | Banger di gang, minaccia fredda | Ritornello a mantra e ad-lib territoriali (Milano, Santana). Dettaglio povero del passato (il bus delle due e venti) contro lo zaino firmato di adesso. Critica sociale in una riga. |
+| Soldi puliti | Lusso con la morte accanto | Parte direttamente dal ritornello. Antitesi morale: meglio al verde o in prigione che morto, ma meglio morto che tradire. Contrapposizioni a elenco: "c'è chi fa, c'è chi guarda". Chiude con "faccio e non lo chiedo". |
+| Messaggio in segreteria | Confessione d'amore perso | Cornice narrativa: la voce della segreteria telefonica apre il pezzo. Orgoglio, lei che adesso si confida con un altro. |
+| Non è easy | Brag da città con ferita sotto | Ritornello onomatopeico (zoom, vroom) e catena inglese in -y (easy, city, busy). Seconda strofa di dettagli poveri: casa piccola, in cucina in due, surgelato a Natale e al compleanno, il guadagno diviso in quattro. Gli amici morti spiegano le foto senza sorrisi. |
+
+**Le tecniche di Shiva**
+1. **Prima e adesso con dettagli poveri e concreti:** cibo, mezzi pubblici, casa piccola, feste senza niente. Il lusso pesa solo accanto a questi dettagli.
+2. **Il ritornello come territorio:** mantra e ad-lib fissi (città, gang) diventano la firma.
+3. **Antitesi morali:** una riga che mette due scelte una contro l'altra e prende posizione.
+4. **Giochi di suono tra parole simili:** due parole vicine nel suono con significati diversi.
+5. **Scene con personaggi e una scelta:** l'amico, la madre, il fratello, e lui che decide.
+6. **Cornici:** il "take", la segreteria, il "rimandala in 2x". Il pezzo sa di essere un pezzo.
+7. **Ferita sotto il brag:** anche nel pezzo più spaccone c'è una strofa che mostra il prezzo.
+
+### Il codice del "far intendere senza dirlo"
+È la parte più swag: dicono cosa fanno senza nominarlo mai.
+1. **Un simbolo al posto del fatto:** le luci blu sono la polizia, le finestre con gli occhi il controllo, "tornare intero" il rischio.
+2. **Una metafora da un altro mondo:** il calcio (passaggi di mano, tutti commentano come telecronisti, spaccare dalla provincia è un gol da centrocampo), un mestiere (gelataio, giornalaio).
+3. **Un oggetto che racconta:** la borsa che si allarga, la giacca da seimila euro mai indossata, il bottone che accende l'auto.
+4. **Il doppio senso:** "più dentro che fuori", le G, "fare su".
+5. **Un contrasto che lascia il buco:** il telefono nuovo ma solo, le montagne di euro ma ancora nei condomini. Il resto lo capisce chi ascolta.
+6. **Il rifiuto di spiegare:** "non farmi domande", "faccio e non lo chiedo". Il silenzio diventa potere.
+7. **L'ironia:** una battuta toglie peso e aggiunge credibilità.
+
+### Catalogo dei mood per Suno (linguaggio da produttore, in inglese per il box Style)
+- **Lonely after-hours emo trap:** 7 a.m. on someone else's balcony, money in the pocket and nobody worth calling. Soft melodic autotune hook, sparse keys, slow 808.
+- **Half-smile reflective flex:** laid-back, looking back at where it started, groove-first, stutter hooks.
+- **Uphill hustle with blue lights in the mirror:** driven pre-chorus, tension released into a hard street chorus.
+- **Sneering luxury flex:** brand-heavy, cold sarcasm, minimal beat that leaves room for attitude.
+- **Block nostalgia turning into victory:** summer evening in the projects, warm melodic loop, chorus that opens up like a sunset.
+- **Can't-sit-still paranoia:** restless hi-hats, tight space, every window watching.
+- **Cold crew menace banger:** chant-style hook, territorial ad-libs, heavy 808, hooded crew walking in.
+- **Voicemail confession interlude:** phone-filter intro, short, raw, emotional.
+- **City brag with a scar underneath:** onomatopoeic chorus, swaggy bounce, second verse drops into poverty details.
 
 ### Cosa prendiamo per l'album
-1. **Prima la storia, poi la rima.** Ogni strofa è una scena con un luogo, un momento e delle persone. La rima serve il racconto, non il contrario.
-2. **Personaggi e dialoghi.** Almeno una voce vera nel pezzo (la madre, un amico, uno più grande), con le sue parole tra virgolette.
-3. **Dettagli concreti:** età, stagione, orario, oggetti, cifre. Mai frasi che vanno bene per qualsiasi canzone.
-4. **Frasi che scavalcano la barra.** Righe lunghe e parlate: il flow e l'enfasi li mette Alien808 in cabina.
-5. **Prima e adesso.** La seconda strofa torna negli stessi posti anni dopo e chiude i conti aperti nella prima.
-6. **Ritornello come ricordo o mantra:** poche righe che si ripetono e raccontano, non un elenco di parole inglesi.
-7. **Callback:** una frase della prima strofa o del bridge torna alla fine con un significato nuovo.
+1. **Prima la storia, poi la rima.** Ogni strofa è una scena con luogo, momento e persone.
+2. **Dettagli poveri e concreti** del prima: cibo, casa, mezzi, feste. Il dopo vale solo accanto al prima.
+3. **Almeno una persona vera** (madre, amico, fratello, lei) con le sue parole o un suo gesto.
+4. **Far intendere, mai spiegare:** usare il codice qui sopra per l'hustle. Simboli, metafore da altri mondi, oggetti che raccontano.
+5. **Una ferita sotto il brag:** anche il pezzo più swag ha una riga che mostra il prezzo.
+6. **Un aforisma o un'antitesi** per pezzo, la riga che resta in testa.
+7. **Il ritornello come mantra o territorio:** poche parole ripetute, ad-lib fisse come firma (808).
+8. **Righe parlate e lunghe:** il flow e l'enfasi li mette Alien808 in cabina.
+9. **Callback e cornici:** una frase che torna con un senso nuovo, il pezzo che sa di essere un capitolo.
 
 ### Lezione da MALANDRINO v1 (2026-10-23)
 La prima versione era troppo robotica: ogni riga stava in piedi da sola, catene di rime e parole inglesi in fila, nessuna scena. Le catene inglesi restano un'arma della firma, ma si usano per chiudere, non per riempire.
@@ -204,3 +258,4 @@ Ogni volta che troviamo la quadra la scriviamo qui, con la data.
 - **2026-10-23** — Primo testo su beat esterno (MALANDRINO). Quando porto un beat, Claude prima lo misura (BPM, tonalità, mappa delle sezioni in barre e minuti) e scrive il testo sulla mappa reale del beat. Desinenze inglesi usate finora: -out, -down, -ip, -up (BLACKOUT), -ack, -ash, -ay (MALANDRINO).
 - **2026-10-23** — Studiati Shiva e Tony Boy (sezione "Riferimenti di stile"). Nuova regola: prima la storia, poi la rima. MALANDRINO riscritto come racconto (v2).
 - **2026-10-23** — La sezione su Shiva e Tony Boy è provvisoria: si rifà analizzando i testi delle singole canzoni, che porta Alien808.
+- **2026-10-23** — Rifatta l'analisi di Shiva e Tony Boy sui testi veri: mood pezzo per pezzo, tecniche, il codice del "far intendere senza dirlo" e un catalogo di mood per Suno.
