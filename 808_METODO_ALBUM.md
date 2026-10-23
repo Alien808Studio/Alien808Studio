@@ -160,7 +160,7 @@ Regole:
 
 ## Riferimenti di stile: Shiva e Tony Boy
 
-Studiati il 2026-10-23 da recensioni, interviste e dall'ascolto noto dei loro dischi. I testi completi non sono stati copiati qui: prendiamo **tecniche**, mai righe. Per approfondire, incolla in chat i testi che vuoi far analizzare e si aggiungono qui sotto.
+**Provvisorio:** scritto il 2026-10-23 solo da recensioni e interviste, senza aver analizzato i testi delle canzoni. Da rifare sui testi veri che porta Alien808. I testi completi non sono stati copiati qui: prendiamo **tecniche**, mai righe. Per approfondire, incolla in chat i testi che vuoi far analizzare e si aggiungono qui sotto.
 
 ### Shiva (Milano)
 - **Temi:** strada e quartiere, soldi fatti prima e soldi fatti dopo, lealtà al gruppo, la famiglia (la madre, poi il figlio), arresti e processi raccontati in prima persona, paranoia di chi ce l'ha fatta.
@@ -203,3 +203,4 @@ Ogni volta che troviamo la quadra la scriviamo qui, con la data.
 - **2026-10-23** — Il file si chiama `808_METODO_ALBUM.md` ed è salvato su GitHub. Questo file diventa il riferimento unico del metodo e si aggiorna a ogni passo. Il box Style segue il formato breve (40–60 parole, mood in prima riga). Aggiunta l'analisi dei testi di riferimento.
 - **2026-10-23** — Primo testo su beat esterno (MALANDRINO). Quando porto un beat, Claude prima lo misura (BPM, tonalità, mappa delle sezioni in barre e minuti) e scrive il testo sulla mappa reale del beat. Desinenze inglesi usate finora: -out, -down, -ip, -up (BLACKOUT), -ack, -ash, -ay (MALANDRINO).
 - **2026-10-23** — Studiati Shiva e Tony Boy (sezione "Riferimenti di stile"). Nuova regola: prima la storia, poi la rima. MALANDRINO riscritto come racconto (v2).
+- **2026-10-23** — La sezione su Shiva e Tony Boy è provvisoria: si rifà analizzando i testi delle singole canzoni, che porta Alien808.
