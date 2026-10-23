@@ -171,4 +171,4 @@ Regole:
 Ogni volta che troviamo la quadra la scriviamo qui, con la data.
 
 - **2026-10-20** — Concept dell'album: "Chi non sa la mia storia la saprà". Prima bozza della title track LA SAPRÀ, salvata nella 808 Console.
-- **2026-10-23** — Questo file diventa il riferimento unico del metodo e si aggiorna a ogni passo. Il box Style segue il formato breve (40–60 parole, mood in prima riga). Aggiunta l'analisi dei testi di riferimento.
+- **2026-10-23** — Il file si chiama `808_METODO_ALBUM.md` ed è salvato su GitHub. Questo file diventa il riferimento unico del metodo e si aggiorna a ogni passo. Il box Style segue il formato breve (40–60 parole, mood in prima riga). Aggiunta l'analisi dei testi di riferimento.
